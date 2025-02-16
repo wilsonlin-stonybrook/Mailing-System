@@ -1,10 +1,3 @@
-/**
- * Wilson Lin
- * 115091711
- * wilson.lin.2@stonybrook.edu
- * Hw 5
- * CSE214.R04 Summer 2024
- */
 
 import java.io.Serializable;
 import java.util.GregorianCalendar;
